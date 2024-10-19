@@ -1,0 +1,3 @@
+[submodule "awesome-python"]
+	path = awesome-python
+	url = git@github.com:vinta/awesome-python.git
